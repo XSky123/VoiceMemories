@@ -16,8 +16,8 @@ Video File: D:/Movie_01_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 7
-Video Position: 1962
+Active Line: 2
+Video Position: 23
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +30,7 @@ Style: Default - JP,FOT-UDMarugo_Large Pr6N DB,60,&H00A3A757,&H000000FF,&H00FFFF
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template line keeptags,{\fad(500,500)}
 Comment: 0,0:00:00.00,0:00:00.00,Default - JP,,0,0,0,template line keeptags,{\fad(500,500)}
-Comment: 0,0:00:00.94,0:00:06.94,Default,,0,0,0,karaoke,{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N初版翻译 难免存在不足 还请理解\N日字及翻译转载请注明出处
+Comment: 0,0:00:00.94,0:00:06.94,Default,,0,0,0,karaoke,{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N日字及翻译转载请注明出处
 Comment: 0,0:00:00.00,0:00:01.76,Default - JP,,0,0,0,karaoke,
 Comment: 0,0:00:03.42,0:00:11.42,Default - JP,,0,0,0,karaoke,見つけたい　叶えたい　二人の約束の
 Comment: 0,0:00:15.68,0:00:23.90,Default - JP,,0,0,0,karaoke,昨日よりも　きっと強くなれるかな

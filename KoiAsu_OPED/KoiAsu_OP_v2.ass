@@ -16,9 +16,8 @@ Video File: F:/Movie_00_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 24
-Video Position: 1661
+Scroll Position: 21
+Active Line: 33
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +61,7 @@ Comment: 0,0:01:12.13,0:01:17.43,Default,,0,0,0,karaoke,俯身凝望大地 昂�
 Comment: 0,0:01:17.43,0:01:22.22,Default,,0,0,0,karaoke,未来一定在盼望着我吧
 Comment: 0,0:01:22.22,0:01:28.69,Default,,0,0,0,karaoke,所以 让我们迈开脚步 努力前行
 Comment: 0,0:00:00.00,0:00:04.40,Default,,0,0,0,karaoke,
-Dialogue: 0,0:00:00.00,0:00:06.36,Default,,0,0,0,fx,{\fad(500,500)}{\an9}龙: Mizore@Voice Memories\N初版翻译 难免存在不足 还请理解\N日字及翻译转载请注明出处
+Dialogue: 0,0:00:00.00,0:00:06.36,Default,,0,0,0,fx,{\fad(500,500)}{\an9}龙: Mizore@Voice Memories\N日字及翻译转载请注明出处
 Dialogue: 0,0:00:00.35,0:00:05.65,Default - JP,,0,0,0,fx,{\fad(500,500)}俯いた先にも　見上げてる先にも
 Dialogue: 0,0:00:05.65,0:00:10.53,Default - JP,,0,0,0,fx,{\fad(500,500)}きっと未来は待っているよ
 Dialogue: 0,0:00:10.53,0:00:15.95,Default - JP,,0,0,0,fx,{\fad(500,500)}だから歩いていこう

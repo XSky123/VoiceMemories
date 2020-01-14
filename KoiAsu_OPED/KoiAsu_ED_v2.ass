@@ -30,7 +30,7 @@ Style: Default - JP,FOT-UDMarugo_Large Pr6N DB,60,&H00A3A757,&H000000FF,&H00FFFF
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template line keeptags,{\fad(500,500)}
 Comment: 0,0:00:00.00,0:00:00.00,Default - JP,,0,0,0,template line keeptags,{\fad(500,500)}
-Comment: 0,0:00:00.94,0:00:06.94,Default,,0,0,0,karaoke,{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N日字及翻译转载请注明出处
+Comment: 0,0:00:00.95,0:00:06.94,Default,,0,0,0,karaoke,{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N日字及翻译转载请注明出处
 Comment: 0,0:00:00.00,0:00:01.76,Default - JP,,0,0,0,karaoke,
 Comment: 0,0:00:03.42,0:00:11.42,Default - JP,,0,0,0,karaoke,見つけたい　叶えたい　二人の約束の
 Comment: 0,0:00:15.68,0:00:23.90,Default - JP,,0,0,0,karaoke,昨日よりも　きっと強くなれるかな
@@ -62,7 +62,7 @@ Comment: 1,0:01:20.08,0:01:26.08,Default,,0,0,0,karaoke,所欲寻觅之物恰于
 Comment: 1,0:01:26.08,0:01:34.32,Default,,0,0,0,karaoke,相信吧 你不再孤身一人
 Comment: 1,0:01:34.32,0:01:42.34,Default,,0,0,0,karaoke,让我们一起 迈出脚步
 Comment: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,karaoke,
-Dialogue: 0,0:00:00.94,0:00:06.94,Default,,0,0,0,fx,{\fad(500,500)}{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N初版翻译 难免存在不足 还请理解\N日字及翻译转载请注明出处
+Dialogue: 0,0:00:00.95,0:00:06.94,Default,,0,0,0,fx,{\fad(500,500)}{\an9\pos(1858,38)}龙: Mizore@Voice Memories\N日字及翻译转载请注明出处
 Dialogue: 0,0:00:00.00,0:00:01.76,Default - JP,,0,0,0,fx,{\fad(500,500)}
 Dialogue: 0,0:00:03.42,0:00:11.42,Default - JP,,0,0,0,fx,{\fad(500,500)}見つけたい　叶えたい　二人の約束の
 Dialogue: 0,0:00:15.68,0:00:23.90,Default - JP,,0,0,0,fx,{\fad(500,500)}昨日よりも　きっと強くなれるかな

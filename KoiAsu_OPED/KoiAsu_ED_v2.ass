@@ -11,20 +11,20 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Movie_01_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subtitle]).mp4
-Video File: Movie_01_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subtitle]).mp4
+Audio File: D:/Movie_01_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subtitle]).mp4
+Video File: D:/Movie_01_([Erai-raws] Koisuru Asteroid - 01 [1080p][Multiple Subtitle]).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 3
-Video Position: 102
+Video Zoom Percent: 0.750000
+Active Line: 7
+Video Position: 1962
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default - JP-furigana,汉仪正圆-65S,27.5,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,7,44,10,10,1
 Style: Default-furigana,汉仪正圆-65S,37.5,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,7,40,10,58,1
-Style: Default,汉仪正圆-65S,75,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,7,40,10,58,1
-Style: Default - JP,汉仪正圆-65S,55,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,7,44,10,10,1
+Style: Default,方正准圆_GBK,60,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,8,0,1,1.9,0,7,40,10,58,1
+Style: Default - JP,FOT-UDMarugo_Large Pr6N DB,60,&H00A3A757,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,4,0,1,2,0,7,42,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,7 +48,7 @@ Comment: 0,0:01:26.08,0:01:34.32,Default - JP,,0,0,0,karaoke,信じよう　一�
 Comment: 0,0:01:34.32,0:01:42.34,Default - JP,,0,0,0,karaoke,歩き出せる
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 Comment: 1,0:00:03.42,0:00:11.42,Default,,0,0,0,karaoke,想要寻觅 想要实现 两人的约定
-Comment: 1,0:00:15.68,0:00:23.90,Default,,0,0,0,karaoke,比起昨天 一定变得更坚强了吧
+Comment: 1,0:00:15.68,0:00:23.90,Default,,0,0,0,karaoke,相比昨天 一定变得更坚强了吧
 Comment: 1,0:00:23.90,0:00:29.60,Default,,0,0,0,karaoke,不断重复着这样的话
 Comment: 1,0:00:29.60,0:00:39.20,Default,,0,0,0,karaoke,试探着自己小小的心
 Comment: 1,0:00:39.20,0:00:44.46,Default,,0,0,0,karaoke,无需言语 抬起头
@@ -79,7 +79,7 @@ Dialogue: 0,0:01:20.08,0:01:26.08,Default - JP,,0,0,0,fx,{\fad(500,500)}探し�
 Dialogue: 0,0:01:26.08,0:01:34.32,Default - JP,,0,0,0,fx,{\fad(500,500)}信じよう　一人じゃないから
 Dialogue: 0,0:01:34.32,0:01:42.34,Default - JP,,0,0,0,fx,{\fad(500,500)}歩き出せる
 Dialogue: 0,0:00:03.42,0:00:11.42,Default,,0,0,0,fx,{\fad(500,500)}想要寻觅 想要实现 两人的约定
-Dialogue: 0,0:00:15.68,0:00:23.90,Default,,0,0,0,fx,{\fad(500,500)}比起昨天 一定变得更坚强了吧
+Dialogue: 0,0:00:15.68,0:00:23.90,Default,,0,0,0,fx,{\fad(500,500)}相比昨天 一定变得更坚强了吧
 Dialogue: 0,0:00:23.90,0:00:29.60,Default,,0,0,0,fx,{\fad(500,500)}不断重复着这样的话
 Dialogue: 0,0:00:29.60,0:00:39.20,Default,,0,0,0,fx,{\fad(500,500)}试探着自己小小的心
 Dialogue: 0,0:00:39.20,0:00:44.46,Default,,0,0,0,fx,{\fad(500,500)}无需言语 抬起头

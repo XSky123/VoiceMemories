@@ -16,9 +16,8 @@ Video File: E:/VideoSource/HeyaCamp/[HorribleSubs] Heya Camp - 05 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 54
-Active Line: 65
-Video Position: 4502
+Active Line: 10
+Video Position: 290
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,12 +46,13 @@ Comment: 0,0:00:00.00,0:00:00.00,JP歌词v1,,0,0,0,template line keeptags,{\fad(
 Comment: 0,0:00:00.00,0:00:00.00,CN歌词v1,,0,0,0,template line keeptags,{\fad(1000,1000)}
 Dialogue: 0,0:00:00.00,0:00:01.77,Top_Title,,0,0,0,,{\c&H959595&}本视频由{\c}Voice Memories{\c&HCCC066&}小组{\c&H959595&}译制\N仅供日语学习使用
 Dialogue: 0,0:00:01.81,0:00:03.48,Top_Title,,0,0,0,,{\c&HFFFFFF&}翻译/校对/时轴/后期: Mizore
+Dialogue: 0,0:00:03.48,0:00:07.48,Top_Title,,0,0,0,,{\c&HFFFFFF&}Voice Memories正在准备招人\N有意参与翻译、校对工作请联系 XSky晓天@bilibili\N具体细节将于近日公布
 Dialogue: 0,0:00:00.00,0:00:01.77,Title,,0,0,0,,{\c&HCCC066&}房{\c}间{\c&HCCC066&}露{\c}营{\c&HCCC066&}▲
 Dialogue: 0,0:00:01.81,0:00:03.48,Title,,0,0,0,,{\c&HFFFFFF&}第5话 真相！{\c}咔{\c&HFFFFFF&}嚓咔嚓山
 Dialogue: 1,0:00:03.95,0:00:07.36,振假名,,0,0,0,,{\pos(1132,1001)}kachi   kachi
 Dialogue: 0,0:00:03.95,0:00:07.36,Default,,0,0,0,,哇 所以这里就是咔嚓咔嚓山啊
 Dialogue: 0,0:00:07.36,0:00:10.61,Default,,0,0,0,,反正有说是以这座山为舞台的
-Dialogue: 0,0:00:10.92,0:00:13.99,Default,,0,0,0,,好像是有狸猫出场吧
+Dialogue: 0,0:00:10.92,0:00:13.99,Default,,0,0,0,,是有狸猫的那个故事吧
 Dialogue: 0,0:00:14.21,0:00:15.50,Default,,0,0,0,,好像是
 Dialogue: 0,0:00:15.50,0:00:18.87,Default,,0,0,0,,应该是一只兔子在追狸猫
 Dialogue: 0,0:00:18.87,0:00:19.74,Default,,0,0,0,,就是那个

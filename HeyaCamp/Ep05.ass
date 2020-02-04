@@ -16,8 +16,9 @@ Video File: E:/VideoSource/HeyaCamp/[HorribleSubs] Heya Camp - 05 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
-Video Position: 5033
+Scroll Position: 54
+Active Line: 65
+Video Position: 4502
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,7 +111,7 @@ Dialogue: 0,0:00:03.48,0:00:05.48,Title,,0,0,0,,
 Comment: 0,0:03:00.74,0:03:06.02,JP歌词v1,,0,0,0,karaoke,Oh, {\c&HCCC066&}Rain{\c} shower {\c&HCCC066&}in{\c} the {\c&HCCC066&}sunshine
 Comment: 0,0:03:06.02,0:03:08.84,JP歌词v1,,0,0,0,karaoke,Happy {\c&HCCC066&}Monday
 Comment: 0,0:03:08.84,0:03:13.37,JP歌词v1,,0,0,0,karaoke,笑{\c&HCCC066&}え{\c}ば{\c&HCCC066&}空{\c}ま{\c&HCCC066&}で{\c} Shiny
-Comment: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,karaoke,Let’s {\c&HCCC066&}chill{\c} out, {\c&HCCC066&}It’s{\c} comfy {\c&HCCC066&}time
+Comment: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,karaoke,Let's{\c&HCCC066&} chill{\c} out, {\c&HCCC066&}It's{\c} comfy {\c&HCCC066&}time
 Comment: 0,0:03:17.55,0:03:20.01,JP歌词v1,,0,0,0,karaoke,Our {\c&HCCC066&}After{\c} School
 Comment: 0,0:03:20.01,0:03:24.71,JP歌词v1,,0,0,0,karaoke,こ{\c&HCCC066&}の{\c}時{\c&HCCC066&}間{\c}が {\c&HCCC066&}何{\c}よ{\c&HCCC066&}り
 Comment: 0,0:03:24.71,0:03:28.08,JP歌词v1,,0,0,0,karaoke,My {\c&HCCC066&}life
@@ -127,7 +128,7 @@ Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 Dialogue: 0,0:03:00.74,0:03:06.02,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Oh, {\c&HCCC066&}Rain{\c} shower {\c&HCCC066&}in{\c} the {\c&HCCC066&}sunshine
 Dialogue: 0,0:03:06.02,0:03:08.84,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Happy {\c&HCCC066&}Monday
 Dialogue: 0,0:03:08.84,0:03:13.37,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}笑{\c&HCCC066&}え{\c}ば{\c&HCCC066&}空{\c}ま{\c&HCCC066&}で{\c} Shiny
-Dialogue: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Let’s {\c&HCCC066&}chill{\c} out, {\c&HCCC066&}It’s{\c} comfy {\c&HCCC066&}time
+Dialogue: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Let's{\c&HCCC066&} chill{\c} out, {\c&HCCC066&}It's{\c} comfy {\c&HCCC066&}time
 Dialogue: 0,0:03:17.55,0:03:20.01,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Our {\c&HCCC066&}After{\c} School
 Dialogue: 0,0:03:20.01,0:03:24.71,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}こ{\c&HCCC066&}の{\c}時{\c&HCCC066&}間{\c}が {\c&HCCC066&}何{\c}よ{\c&HCCC066&}り
 Dialogue: 0,0:03:24.71,0:03:28.08,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}My {\c&HCCC066&}life

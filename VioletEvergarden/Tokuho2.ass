@@ -16,7 +16,8 @@ Video File: ../../VideoSource/VioletEvergarden/『劇場版 ヴァイオレッ�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 2
+Active Line: 6
+Video Position: 462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,8 +26,8 @@ Style: Lyric_CN-furigana,方正兰亭宋_GBK,25,&H00FFFFFF,&H000000FF,&H00000000
 Style: Lyric_JP-furigana,FOT-TsukuAntiqueLMin Std L,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,32,12,60,1
 Style: Default-furigana,方正兰亭宋_GBK,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,0,0,2,10,10,40,1
 Style: Default,方正兰亭宋_GBK,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,0,0,2,10,10,55,1
-Style: Lyric_JP,FOT-TsukuAntiqueLMin Std L,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,32,12,65,1
-Style: Lyric_CN,方正兰亭宋_GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,7,30,10,30,1
+Style: Lyric_JP,FOT-TsukuAntiqueLMin Std L,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,32,12,85,1
+Style: Lyric_CN,方正兰亭宋_GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,7,30,10,50,1
 Style: Screen,方正兰亭宋_GBK,60,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,5,0,1,0.8,0,8,10,10,240,1
 Style: Top,方正兰亭宋_GBK,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,0,0,8,10,10,20,1
 
@@ -38,7 +39,7 @@ Dialogue: 3,0:00:00.00,0:00:03.00,Top,,0,0,0,,{\fad(700,700)\an9}本视频由Voi
 Dialogue: 3,0:00:03.00,0:00:07.00,Top,,0,0,0,,{\fad(700,700)\fs40\an9\pos(1910,8)}Voice Memories招募小伙伴啦\N有意参与翻译、校对、时轴后期的同学请加审核群725940265\N期待你的加入
 Dialogue: 3,0:00:28.25,0:00:33.97,Top,,0,0,0,,{\fad(700,0)}本视频由Voice Memories小组译制 翻译/校对/时轴/后期: Mizore\N感谢观看 如果喜欢还请不要吝惜您的支持
 Dialogue: 0,0:00:00.00,0:00:01.24,Default,,0,0,0,,
-Dialogue: 0,0:00:01.24,0:00:05.15,Default,,0,0,0,,她想作为普通的女人的生活下去
+Dialogue: 0,0:00:01.24,0:00:05.15,Default,,0,0,0,,我一直想让她作为一个普通的女人的生活下去
 Dialogue: 0,0:00:07.25,0:00:08.84,Default,,0,0,0,,所以 这样就足够了
 Dialogue: 0,0:00:09.58,0:00:13.64,Default,,0,0,0,,我想 对她来说这就是真正的幸福了
 Dialogue: 0,0:00:14.54,0:00:16.52,Default,,0,0,0,,就算从此别离

@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Heiti
-Audio File: 『天気の子』BDコレクターズ・エディション映像特典　新海誠監督講演会「『天気の子』―物語の起点―」一部公開-kIKhS9BBBU4.mp4
-Video File: 『天気の子』BDコレクターズ・エディション映像特典　新海誠監督講演会「『天気の子』―物語の起点―」一部公開-kIKhS9BBBU4.mp4
+Audio File: ../../../VideoSource/TenkiNoKo/Lecture/Lecture.mp4
+Video File: ../../../VideoSource/TenkiNoKo/Lecture/Lecture.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 30
-Active Line: 9
-Video Position: 9623
+Video Zoom Percent: 0.500000
+Scroll Position: 112
+Active Line: 145
+Video Position: 9411
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -189,8 +189,8 @@ Dialogue: 0,0:06:18.59,0:06:21.30,Default,,0,0,0,,在制作中用到的精选出
 Dialogue: 0,0:06:22.05,0:06:24.22,Default,,0,0,0,,另外还写了很多东西
 Dialogue: 0,0:06:24.22,0:06:28.06,Default,,0,0,0,,于是就挑出了很多感觉与《天气之子》的思路相关联的部分
 Dialogue: 0,0:06:28.06,0:06:30.12,Default,,0,0,0,,用这种形式拿给大家
-Dialogue: 0,0:06:30.81,0:06:32.36,Default,,0,0,0,,用这种形式拿给大家
-Dialogue: 0,0:06:32.51,0:06:37.13,Default,,0,0,0,,先和各位一起从企划书中想要达到的目标开始看
+Dialogue: 0,0:06:30.81,0:06:32.36,Default,,0,0,0,,共同回顾这段历程
+Dialogue: 0,0:06:32.51,0:06:37.13,Default,,0,0,0,,先和各位一起看一下企划书中想要达到的目标
 Dialogue: 1,0:00:04.41,0:00:05.58,Default - JP,,0,0,0,,この映画を作るために
 Dialogue: 1,0:00:05.58,0:00:07.66,Default - JP,,0,0,0,,まず必要なものはなんでしょうか
 Dialogue: 1,0:00:08.75,0:00:11.90,Default - JP,,0,0,0,,観ていただいたようなアニメーションのビジュアルのデザインや

@@ -11,13 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: VideoSource/MV/17才NCOP.mp4
-Video File: VideoSource/MV/17才NCOP.mp4
+Audio File: ../../VideoSource/MV/17才NCOP.mp4
+Video File: ../../VideoSource/MV/17才NCOP.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 2
-Video Position: 1602
+Video Zoom Percent: 0.500000
+Active Line: 3
+Video Position: 1829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:15.09,0:00:15.09,Default,,0,0,0,template  notext,!retime("abs",$lstart+$sstart-200 ,$lend)!{!remember("random1", math.random(2,11))!\bord0\an1\p1\alpha!_G.ass_alpha(math.random(170,245))!\pos(!$x+math.random(0,30)!,!$y-math.random(0,30)!)\fscx!40*recall.random1!\fscy!40*recall.random1!\t(\frz!math.random(-120,120)!)\fad(500,500)} m 0 0 l -1 0 l -1 0 l -5 0 l -10 9 l -5 18 l 5 18 l 10 9 l 5 0 l 0 0 {\p0\alpha&HFF&}
 Comment: 0,0:00:13.09,0:00:15.09,Default,,0,0,0,template,!retime("abs",$lstart+$sstart-200 ,$lend-700)!{\fad(500,0)\pos($x, $y)\blur4\be8}{\t(\3c!_G.ass_color(_G.HSV_to_RGB($si/$syln*360,0.6,1))!)}
 Comment: 0,0:00:13.09,0:00:15.09,Default,,0,0,0,template,!retime("abs",$lend-700 ,$lend-350/$syln*($syln-$si))!{\fad(0,300)\pos($x, $y)\blur4\be8\3c!_G.ass_color(_G.HSV_to_RGB($si/$syln*360,0.6,1))!)}
-Dialogue: 0,0:01:31.77,0:01:38.07,中文说明,,0,0,0,,只会用fad大法的纯萌新稍微搞了下最菜鸡的特效：\N简单说下用到的东西\N1.变色部分:\t(\1c!_G.ass_color(_G.HSV_to_RGB($si/$syln*360,0.6,1))!)\N\N2.画六边形{\fs40}\N\h\h利用fscy fscx配合随机同时缩放xy维度\N\h\h_G.ass_alpha(math.random(170,245))实现随机透明（注意范围）\N\h\h\t(\frz!math.random(-120,120)!) 随机旋转（本来可以自定义旋转中心但是玩脱了算了）\N\h\h最后因为我找不到现成的图形代码只好手工画的六边形\N\h\hm 0 0 l -1 0 l -1 0 l -5 0 l -10 9 l -5 18 l 5 18 l 10 9 l 5 0 l 0 0\N{\fs}\N3.几个retime控制显示 我随手查没查到完整的retime教程索性直接abs模式搞了\N{\fs40}\h\h首先是!retime("abs",$lstart+$sstart-200 ,$lend-700)(大括号)\fad(500,0)\pos($x, $y)... 实现的是蹦字\N\h\h然后是!retime("abs",$lend-700 ,$lend-350/$syln*($syln-$si))!(大括号)\fad(0,300)\pos($x, $y)... 实现的是\N\h\h结束前停留一会儿然后快速“折叠”再消失\N\h\h注意看我的几个时间节点选择，用来防止停留时间过短来不及看和过渡过短效果差。\N\N{\fs}4.最后感谢下文森特巨佬的教程 以及日常膜的几位字幕后期巨佬带来的学习动力。\N5.其实压根没涉及用lua自定义函数 全是用的自带的东西 效果居然还说得过去 最起码能看了\N后面打算研究下av74264202讲的随机飘花的思路 毕竟感觉我这样xjb转有点蠢233\N6.虽然特效好看 但是私以为字幕最核心的一环还是翻译啊 然后像字体样式选择（@神大）\N屏幕字对轴之类的（点名批评某组）也是基本功啊 在这个基础上再追求出片速度或者特效一类的\N7.所以我组继续招翻译校对和时轴特效 有意欢迎加群725940265\N8.片源为本组自购自压BD源的NCOP 版权归右面所有 仅学习使用\N\N\N日字/时轴/K帧/特效/压制/写这堆话：Mizore@Voice Memories
+Dialogue: 0,0:01:31.77,0:01:38.07,中文说明,,0,0,0,,只会用fad大法的纯萌新稍微搞了下最菜鸡的特效：\N简单说下用到的东西\N1.变色部分:\t(\1c!_G.ass_color(_G.HSV_to_RGB($si/$syln*360,0.6,1))!)\N\N2.画六边形{\fs40}\N\h\h利用fscy fscx配合随机同时缩放xy维度\N\h\h_G.ass_alpha(math.random(170,245))实现随机透明（注意范围）\N\h\h\t(\frz!math.random(-120,120)!) 随机旋转（本来可以自定义旋转中心但是玩脱了算了）\N\h\h最后因为我找不到现成的图形代码只好手工画的六边形\N\h\hm 0 0 l -1 0 l -1 0 l -5 0 l -10 9 l -5 18 l 5 18 l 10 9 l 5 0 l 0 0\N{\fs}\N3.几个retime控制显示 我随手查没查到完整的retime教程索性直接abs模式搞了\N{\fs40}\h\h首先是!retime("abs",$lstart+$sstart-200 ,$lend-700)(大括号)\fad(500,0)\pos($x, $y)... 实现的是蹦字\N\h\h然后是!retime("abs",$lend-700 ,$lend-350/$syln*($syln-$si))!(大括号)\fad(0,300)\pos($x, $y)... 实现的是\N\h\h结束前停留一会儿然后快速“折叠”再消失\N\h\h注意看我的几个时间节点选择，用来防止停留时间过短来不及看和过渡过短效果差。\N\N{\fs}4.最后感谢下文森特巨佬的教程 以及日常膜的几位字幕后期巨佬带来的学习动力。\N5.其实压根没涉及用lua自定义函数 全是用的自带的东西 效果居然还说得过去 最起码能看了\N后面打算研究下av74264202讲的随机飘花的思路 毕竟感觉我这样xjb转有点蠢233\N6.虽然特效好看 但是私以为字幕最核心的一环还是翻译啊 然后像字体样式选择（@神大）\N屏幕字对轴之类的（点名批评某组）也是基本功啊 在这个基础上再追求出片速度或者特效一类的\N7.所以我组继续招翻译校对和时轴特效 有意欢迎加群725940265\N\N\N\N日字/时轴/K帧/特效/压制/写这堆话：Mizore@Voice Memories
 Comment: 0,0:00:15.09,0:00:22.21,Default,,0,0,0,karaoke,{\k24}た{\k23}と{\k22}え{\k22}ば{\k23}今{\k22}日{\k26}ま{\k35}で{\k30}の{\k71}僕{\k37}が{\k54}壊{\k63}さ{\k60}れ{\k68}た{\k132}夜
 Comment: 0,0:00:22.21,0:00:29.11,Default,,0,0,0,karaoke,{\k46}誰{\k23}に{\k24}も{\k36}愛{\k36}さ{\k38}れ{\k27}て{\k42}い{\k27}な{\k37}い{\k26}と{\k91}感{\k63}じ{\k70}た{\k104}夜
 Comment: 0,0:00:29.86,0:00:36.07,Default,,0,0,0,karaoke,{\k24}た{\k15}だ{\k17}ま{\k19}っ{\k43}す{\k41}ぐ{\k16}に{\k47}透{\k24}き{\k73}通{\k42}る{\k100}明{\k67}日{\k93}を

@@ -16,8 +16,7 @@ Video File: ../../VideoSource/HeyaCamp/[HorribleSubs] Heya Camp - 11 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 8
+Active Line: 4
 Video Position: 44
 
 [V4+ Styles]
@@ -47,7 +46,6 @@ Comment: 0,0:00:00.00,0:00:00.00,JP歌词v1,,0,0,0,template line keeptags,{\fad(
 Comment: 0,0:00:00.00,0:00:00.00,CN歌词v1,,0,0,0,template line keeptags,{\fad(1000,1000)}
 Dialogue: 0,0:00:00.00,0:00:01.77,Top_Title,,0,0,0,,{\c&H959595&}本视频由{\c}Voice Memories{\c&HCCC066&}小组{\c&H959595&}译制\N仅供日语学习使用
 Dialogue: 0,0:00:01.81,0:00:03.48,Top_Title,,0,0,0,,{\c&HFFFFFF&}翻译/校对/时轴/后期: Mizore
-Dialogue: 0,0:00:03.48,0:00:07.48,Top_Title,,0,0,0,,{\c&FFFFFF&\fs70}Voice Memories招募小伙伴啦！\N有意参与翻译、校对、时轴后期的同学请加审核群725940265\N期待你的加入！
 Dialogue: 0,0:00:00.00,0:00:01.77,Title,,0,0,0,,{\c&HCCC066&}房{\c}间{\c&HCCC066&}露{\c}营{\c&HCCC066&}▲
 Dialogue: 0,0:00:01.81,0:00:03.48,Title,,0,0,0,,{\c&HFFFFFF&}第11话{\bord0} 旅行的{\c&H8B70E2&}终{\c&HFFFFFF&}点
 Dialogue: 0,0:00:03.48,0:00:05.48,Title,,0,0,0,,

@@ -15,9 +15,10 @@ Audio File: ../../VideoSource/HeyaCamp/[Erai-raws] Heya Camp - 02 [1080p][Multip
 Video File: ../../VideoSource/HeyaCamp/[Erai-raws] Heya Camp - 02 [1080p][Multiple Subtitle].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 13
-Video Position: 543
+Video Zoom Percent: 0.250000
+Scroll Position: 7
+Active Line: 92
+Video Position: 939
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,8 +41,8 @@ Style: 顶部注释,汉仪正圆-65S,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,JP歌词v1,,0,0,0,template line,{\fad(1000,1000)}
-Comment: 0,0:00:00.00,0:00:00.00,CN歌词v1,,0,0,0,template line,{\fad(1000,1000)}
+Comment: 0,0:00:00.00,0:00:00.00,JP歌词v1,,0,0,0,template line keeptags,{\fad(1000,1000)}
+Comment: 0,0:00:00.00,0:00:00.00,CN歌词v1,,0,0,0,template line keeptags,{\fad(1000,1000)}
 Dialogue: 0,0:00:00.00,0:00:01.77,Top_Title,,0,0,0,,{\c&H959595&}本视频由{\c}Voice Memories{\c&HCCC066&}小组{\c&H959595&}译制\N仅供日语学习使用
 Dialogue: 0,0:00:01.81,0:00:03.48,Top_Title,,0,0,0,,{\c&HFFFFFF&}翻译/校对/时轴/后期: Mizore
 Dialogue: 0,0:00:00.00,0:00:01.77,Title,,0,0,0,,{\c&HCCC066&}房{\c}间{\c&HCCC066&}露{\c}营{\c&HCCC066&}▲
@@ -119,13 +120,13 @@ Comment: 0,0:03:17.55,0:03:20.01,CN歌词v1,,0,0,0,karaoke,在放学之后
 Comment: 0,0:03:20.01,0:03:24.71,CN歌词v1,,0,0,0,karaoke,这段时光才算得上是
 Comment: 0,0:03:24.71,0:03:28.08,CN歌词v1,,0,0,0,karaoke,我的生活
 Dialogue: 0,0:03:24.76,0:03:29.48,edstaff,,0,0,0,,{\fad(1000,0)\pos(1530,1029)}Voice Memories出品\N翻译/校对/时轴/后期: Mizore
-Dialogue: 0,0:03:00.74,0:03:06.02,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Oh, Rain shower in the sunshine
-Dialogue: 0,0:03:06.02,0:03:08.84,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Happy Monday
-Dialogue: 0,0:03:08.84,0:03:13.37,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}笑えば空まで Shiny
-Dialogue: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Let’s chill out, It’s comfy time
-Dialogue: 0,0:03:17.55,0:03:20.01,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Our After School
-Dialogue: 0,0:03:20.01,0:03:24.71,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}この時間はが 何より
-Dialogue: 0,0:03:24.71,0:03:28.08,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}My life
+Dialogue: 0,0:03:00.74,0:03:06.02,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Oh, {\c&HCCC066&}Rain{\c} shower {\c&HCCC066&}in{\c} the {\c&HCCC066&}sunshine
+Dialogue: 0,0:03:06.02,0:03:08.84,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Happy {\c&HCCC066&}Monday
+Dialogue: 0,0:03:08.84,0:03:13.37,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}笑{\c&HCCC066&}え{\c}ば{\c&HCCC066&}空{\c}ま{\c&HCCC066&}で{\c} Shiny
+Dialogue: 0,0:03:13.37,0:03:17.55,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Let's{\c&HCCC066&} chill{\c} out, {\c&HCCC066&}It's{\c} comfy {\c&HCCC066&}time
+Dialogue: 0,0:03:17.55,0:03:20.01,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}Our {\c&HCCC066&}After{\c} School
+Dialogue: 0,0:03:20.01,0:03:24.71,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}こ{\c&HCCC066&}の{\c}時{\c&HCCC066&}間{\c}が {\c&HCCC066&}何{\c}よ{\c&HCCC066&}り
+Dialogue: 0,0:03:24.71,0:03:28.08,JP歌词v1,,0,0,0,fx,{\fad(1000,1000)}My {\c&HCCC066&}life
 Dialogue: 0,0:03:00.74,0:03:06.02,CN歌词v1,,0,0,0,fx,{\fad(1000,1000)}太阳雨
 Dialogue: 0,0:03:06.02,0:03:08.84,CN歌词v1,,0,0,0,fx,{\fad(1000,1000)}快乐的周一
 Dialogue: 0,0:03:08.84,0:03:13.37,CN歌词v1,,0,0,0,fx,{\fad(1000,1000)}只要微笑就会天晴朗

@@ -11,13 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かくしごと』後藤可久士キャラクターPV-e7MX-AM_zaQ_output.mp4
-Video File: E:/VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かくしごと』後藤可久士キャラクターPV-e7MX-AM_zaQ_output.mp4
+Audio File: ../../../VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かくしごと』後藤可久士キャラクターPV-e7MX-AM_zaQ_output.mp4
+Video File: ../../../VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かくしごと』後藤可久士キャラクターPV-e7MX-AM_zaQ_output.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 632
+Active Line: 11
+Video Position: 3
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 2,0:00:08.42,0:00:10.54,Default - JP,,0,0,0,,そう 俺の隠し事は
 Dialogue: 2,0:00:10.54,0:00:12.06,Default - JP,,0,0,0,,言えるわけねーだろう
 Dialogue: 2,0:00:12.06,0:00:14.53,Default - JP,,0,0,0,,姫に知られたらどうする
 Dialogue: 2,0:00:14.53,0:00:20.19,Default - JP,,0,0,0,,ひめ ヒメ 姫
-Dialogue: 1,0:00:00.12,0:00:02.58,Default,,0,0,0,,我画了十多年可不是说说而已
+Dialogue: 1,0:00:00.12,0:00:02.58,Default,,0,0,0,,我这十多年可不是白画的
 Dialogue: 1,0:00:03.52,0:00:05.89,Default,,0,0,0,,我 我的工作
 Dialogue: 1,0:00:07.26,0:00:08.01,Default,,0,0,0,,漫画家
 Dialogue: 1,0:00:08.42,0:00:10.54,Default,,0,0,0,,没错 这就是我所隐瞒的工作
@@ -51,7 +51,7 @@ Dialogue: 1,0:00:14.53,0:00:20.19,Default,,0,0,0,,小姫×3
 Dialogue: 1,0:00:08.15,0:00:10.90,小字,,0,0,0,,{\frz270\pos(668,380)\fad(1000,0)}曾因作品《鸡鸡复鸡鸡》一炮而红
 Dialogue: 1,0:00:08.15,0:00:10.90,小字,,0,0,0,,{\frz270\pos(610,298)\fad(1000,0)}出于对独生女小姫的爱
 Dialogue: 1,0:00:08.15,0:00:10.90,小字,,0,0,0,,{\frz270\pos(550,326)\fad(1000,0)}一直瞒着自己在画漫画的事
-Dialogue: 0,0:00:08.15,0:00:10.90,小字,,0,0,0,,{\p1\c&HFFFFFF&\bord2\pos(592,436)}m 0 0 l 0 690 l 220 690 l 220 0 
+Dialogue: 0,0:00:08.15,0:00:10.90,小字,,0,0,0,,{\p1\c&HFFFFFF&\bord2\pos(592,436)}m 0 0 l 0 690 l 220 690 l 220 0
 Dialogue: 0,0:00:08.15,0:00:10.90,Top,,0,0,0,,*男主名字的读音正好就是片名かくしごと倒过来（ごと かくし）按英文规则名在前姓在后则完全一致
 Dialogue: 0,0:00:11.32,0:00:11.82,Top,,0,0,0,,此处飙车台词不予翻译
 Dialogue: 0,0:00:18.08,0:00:20.79,大标题中文,,0,0,0,,{\fad(700,700)\pos(972,315)}隐瞒之事

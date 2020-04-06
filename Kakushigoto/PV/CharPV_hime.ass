@@ -15,9 +15,9 @@ Audio File: ../../../VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かく
 Video File: ../../../VideoSource/Kakushigoto/Kakushigoto_PV/TVアニメ『かくしごと』後藤 姫キャラクターPV-fPYXLeu525w_output.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Active Line: 4
-Video Position: 57
+Video Zoom Percent: 0.437500
+Active Line: 25
+Video Position: 311
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,13 +42,13 @@ Dialogue: 2,0:00:12.49,0:00:16.01,Default - JP,,0,0,0,,どんな願い事願い�
 Dialogue: 2,0:00:16.01,0:00:18.26,Default - JP,,0,0,0,,カレーって何味
 Dialogue: 2,0:00:20.97,0:00:23.00,Default - JP,,0,0,0,,お父さんの仕事を聞かれてね
 Dialogue: 2,0:00:23.86,0:00:27.45,Default - JP,,0,0,0,,働いてよって答えた
-Dialogue: 1,0:00:01.25,0:00:03.18,Default,,0,0,0,,父亲的隐瞒之事
+Dialogue: 1,0:00:01.25,0:00:03.18,Default,,0,0,0,,爸爸的隐瞒之事
 Dialogue: 1,0:00:05.87,0:00:07.72,Default,,0,0,0,,是什么呢
-Dialogue: 1,0:00:08.93,0:00:12.49,Default,,0,0,0,,今天和小伙伴玩了模拟暗黑幻想哦
+Dialogue: 1,0:00:08.93,0:00:12.49,Default,,0,0,0,,今天和小伙伴一起扮演了暗黑幻想游戏哦
 Dialogue: 1,0:00:12.49,0:00:16.01,Default,,0,0,0,,许下怎样的愿望才能让爸爸开心呢
 Dialogue: 1,0:00:16.01,0:00:18.26,Default,,0,0,0,,咖喱是什么味道呢
 Dialogue: 1,0:00:20.97,0:00:23.00,Default,,0,0,0,,别人问我爸爸在做什么工作
-Dialogue: 1,0:00:23.86,0:00:27.45,Default,,0,0,0,,我回答说他在工作哦
+Dialogue: 1,0:00:23.86,0:00:27.45,Default,,0,0,0,,我回答说他有在好好地工作哦
 Dialogue: 2,0:00:10.44,0:00:11.53,屏幕字1,,0,0,0,,{\pos(1008.044,314.036)\frz2.929\blur1}员工用
 Dialogue: 1,0:00:10.44,0:00:11.53,屏幕字1,,0,0,0,,{\p1\c&HDFE1E1&\frz3.506\pos(1006.265,315.815)}m 0 0 l 200 0 l 200 55 l 0 55
 Dialogue: 1,0:00:12.95,0:00:15.70,小字,,0,0,0,,{\frz270\fad(1000,0)\pos(226.702,267.908)}好几次 恰好撞见
